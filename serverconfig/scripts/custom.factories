@@ -1,0 +1,15 @@
+{
+"id": "ift2",
+"title": "Instagib FFA with railjumps",
+"author": "Dr. Feelgood",
+"description": "Railgun and Gauntlet only. One shot, one kill. Now with added jumping around.",
+"basegt": "ft",
+"cvars": {
+"g_railjump": "500",
+"g_instagib": "1",
+"g_startingWeapons": "65",
+"g_allowKill": "0",
+"g_spawnArmor": "0",
+"dmflags": "28"
+}
+}
